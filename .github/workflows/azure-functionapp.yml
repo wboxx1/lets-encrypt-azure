@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: helios_emc
+  ResourceGroup: letsencrypt-helios
 jobs:
   build:
     runs-on: ubuntu-latest
